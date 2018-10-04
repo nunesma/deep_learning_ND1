@@ -13,7 +13,7 @@ git push -u origin master
 
 
 Table of contents
-- PROJECT - first-neural-network - firt Deep Larning Nanodegree 2017 version project
+- PROJECT - Bike-Sharing-Dataset - first-neural-network - firt Deep Larning Nanodegree 2017 version project
 - PROJECT -
 - PROJECT -
 - PROJECT -
