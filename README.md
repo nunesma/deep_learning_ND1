@@ -10,6 +10,7 @@ Table of contents:
 - P3: Generate TV Scripts: Use deep learning to generate new scripts for your favorite TV show (recurrent neural network).
 - P4: Make a translation chatbot
 - P5: Generate faces: Use a generative adversarial network (GAN) to generate novel faces.
+- pytorch_scholar: This repo is a compile of udacity Pytorch Scholarship Challenge
 
 
 ### Neural_Network_intro
